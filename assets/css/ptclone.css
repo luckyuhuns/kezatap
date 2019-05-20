@@ -1,0 +1,76 @@
+html, body{
+	background-color: black;
+	margin: auto 0;
+	width: 100%;
+	height: 100%;
+}
+
+#inapp_h1{
+	font-family: aspergit;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	background-color: lightgrey;
+}
+
+canvas{
+
+	width: 100%;
+	height: 100%;
+}
+
+button{
+	color: white;
+	background-color: #0468BF;
+}
+
+span{
+	color: white;
+	font-family: coolvetica;
+	font-size: 30px;
+
+}
+
+
+
+#body{
+	background-image: url(../images/home_screen.png);
+	height: 100%;
+   display: inline-block;
+   vertical-align: middle;
+   margin: 0 auto;
+   width: 100%;
+   padding-bottom: 30px;
+   text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#content{
+	padding-top: 25%;
+	text-align: center;
+}
+
+#home_h1{
+	font-family: coolvetica;
+	letter-spacing: 5px;
+	color: white;
+	font-weight: 400;
+	font-size: 5em;
+}
+
+#content p{
+	color: white;
+}
+/*body, html{
+	background-color: #000003;
+	width: 100%;
+	height: 100%;
+	margin: auto 0;
+}
+canvas{
+	height: 100;
+	width: 100%;
+
+}*/
